@@ -273,7 +273,7 @@ $language_data = array (
             'getExtends', 'getFunction', 'getGeneric', 'getGenerics', 'getGroup', 'getGroupMembers',
             'getMethod', 'getMethods', 'getMethodsForDispatch', 'getMethodsMetaData', 'getPackageName',
             'getProperties', 'getPrototype', 'getSlots', 'getSubclasses', 'getValidity', 'getVirtual',
-            'hasArg', 'hasMethod', 'hasMethods', 'implicitGeneric', 'initialize', 'insertMethod', 'is',
+            'hasArg', 'hasMethod', 'hasMethods', 'implicitGeneric', 'initialize', 'insertMethod', 
             'isClass', 'isClassDef', 'isClassUnion', 'isGeneric', 'isGrammarSymbol', 'isGroup',
             'isSealedClass', 'isSealedMethod', 'isVirtualClass', 'isXS3Class', 'languageEl', 'languageEl<-',
             'linearizeMlist', 'listFromMethods', 'listFromMlist', 'loadMethod', 'Logic',
