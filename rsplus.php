@@ -445,7 +445,7 @@ $language_data = array (
         ),
     'URLS' => array(
         1 => '',
-        2 => 'http://inside-r.org/r-doc/base/{FNAME}', //'http://stat.ethz.ch/R-manual/R-devel/library/base/html/{FNAME}.html', // Base Package
+        2 => 'http://stat.ethz.ch/R-manual/R-devel/library/base/html/{FNAME}.html', // Base Package //'http://inside-r.org/r-doc/base/{FNAME}', //
         3 => 'http://inside-r.org/r-doc/datasets/{FNAME}', //'http://stat.ethz.ch/R-manual/R-devel/library/datasets/html/{FNAME}.html', // Datasets
         4 => 'http://inside-r.org/r-doc/graphics/{FNAME}',// 'http://stat.ethz.ch/R-manual/R-devel/library/graphics/html/{FNAME}.html', // Graphics Package
         5 => 'http://inside-r.org/r-doc/grDevices/{FNAME}',// 'http://stat.ethz.ch/R-manual/R-devel/library/grDevices/html/{FNAME}.html', // grDevices
